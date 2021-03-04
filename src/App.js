@@ -5,7 +5,6 @@ import Home from './components/Home';
 import Dogs from './components/Dogs';
 import DogsDetail from './components/DogsDetail';
 import RandomCat from './components/RandomCat';
-//import FetchData from "./services/FetchData";
 
 
 function App() {

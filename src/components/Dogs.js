@@ -21,7 +21,6 @@ function Dogs(props) {
     <div>
       <h1>List of Dog Breeds</h1>
 
-    {/* To map the data and link it to another component,  */}
     <div className="dogs">
 			{data.map((breedArgument, index) => {
 				
